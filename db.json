@@ -4,77 +4,20 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
-    },
-    {
-      "id": 3,
-      "firstName": "sri",
-      "lastName": "lekha",
-      "email": "Sri@gmail.com",
-      "mobile": "09876543211",
-      "salary": "7890"
-    },
-    {
-      "id": 5,
-      "firstName": "test",
-      "lastName": "test",
-      "email": "test@123",
-      "mobile": "0987654321",
-      "salary": "8907"
-    },
-    {
-      "id": 6,
-      "firstName": "test",
-      "lastName": "test",
-      "email": "test@email.com",
-      "mobile": "8520987656",
-      "salary": "9087"
-    },
-    {
-      "id": 7,
-      "firstName": "test",
-      "lastName": "test",
-      "email": "test@gmail.com",
-      "mobile": "8523098769",
-      "salary": "0987"
-    },
-    {
-      "id": 8,
-      "firstName": "testone",
-      "lastName": "testoneo",
-      "email": "testone@gmail.com",
-      "mobile": "1234567890",
-      "salary": "7890"
-    },
-    {
-      "id": 9,
-      "firstName": "as",
-      "lastName": "testtwo",
-      "email": "z@gmail.com",
-      "mobile": "09877654321",
-      "salary": "098"
-    },
-    {
-      "id": 10,
-      "firstName": "a",
-      "lastName": "hsd",
-      "email": "A@gmail.com",
-      "mobile": "1234567890",
-      "salary": "0987"
-    },
-    {
-      "id": 11,
-      "firstName": "as",
-      "lastName": "h",
-      "email": "h@gmail.com",
-      "mobile": "0987654321",
-      "salary": "908"
     }
   ],
-  "comments": [
+  "signupusers": [
     {
       "id": 1,
       "body": "some comment",
       "postId": 1
+    },
+    {
+      "fullname": "h",
+      "email": "g@gamil.com",
+      "password": "AAAAA",
+      "mobile": 9887654324,
+      "id": 2
     }
   ],
   "profile": {
